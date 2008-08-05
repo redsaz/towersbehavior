@@ -1,0 +1,350 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
+<html lang="en-us">
+<head>
+
+<!--The head contains information like, where to read the stylesheet files from (the files that say how the page should look), metadata (describes the contents of the page to search engines like Google and Yahoo), and the title of the page.-->
+  <link rel="shortcut icon" href="/favicon.ico" />
+  <link href="pageflow.css" rel="stylesheet" type="text/css">
+  <link href="menu.css" rel="stylesheet" type="text/css">
+  <title>TowersBehavior.com - Using Applied Behavior Analysis to help those who help others.</title>
+
+
+<!--The body is what is shown to the users. All content should be placed in the body.-->
+</head>
+
+<body style="direction: ltr;">
+
+<!--The_page parts 1 and 2 are the shell for all the contents of the site. The content is placed in nested sections within.-->
+<div class="the_page_part1"><!--Part 1 and two must go together-->
+<div class="the_page_part2"><!--The pagetitle section consists of the image-->
+<div class="pagetitle"> <img class="pagetitle" src="images/titlesmall.jpg" alt="TowersBehavior.com - Using Applied Behavior Analysis to help those who help others." height="100" width="775"> </div>
+
+<!--Do not write anything in the content section, but instead put a two_column_content or main_content section inside.-->
+<div class="content"><!--The main_content section is where the text appears at full width-->
+<div class="main_content">
+<h1>Public Courses</h1>
+
+<h3>Classes offered to the general public.</h3>
+
+<!--The menu contains links to other pages or sites in an uniform and orginized manner.-->
+<div class="menu" id="menu"> <span class="menu_header">Currently available classes</span>
+<ul>
+  <li><a href="#whywontyoumind">Why Won't You Mind?</a></li>
+  <li><a href="#inhomeinterventions">In-Home Interventions for Children with Autism</a></li>
+  <li><a href="#challengingbehaviors">Challenging Behaviors: Teaching Appropriate Alternatives</a></li>
+  <li><a href="#understandandshape">Understanding and Shaping the Behavior of an Individual with a Disability</a></li>
+</ul>
+
+</div>
+
+<!--End of menu section-->
+&nbsp;
+
+<!-- Start: Why Won't You Mind? -->
+<hr>
+<h2 id="whywontyoumind">
+Why Won't You Mind?<br />
+Compliance and Attitude: Improving Both in Your Child with a Disability
+</h2>
+<h3>Presented by the Autism Society of Colorado and Towers Behavior Services LLC</h3>
+
+<br>
+<br>
+<p>
+This course is designed for parents and others who wish to increase the compliance of children who have any type of disability.
+</p>
+<p>
+In this course, the participants will learn several procedures for increasing the compliance of a child with a disability.  The participants will be given opportunities to practice these procedures and will receive feedback so that they are ready to use them when they complete the training.
+</p>
+<p>
+Because timeout can be used in one of the procedures, using timeout effectively will also be covered in this training.  The following will be included in the timeout section of the training:
+</p>
+<ul>
+<li>Considerations for using timeout.</li>
+<li>How to solve problems commonly associated with timeout, such as a child refusing to go to timeout or a child screaming and tearing up things while in timeout.</li>
+<li>What to do when a child becomes old enough that timeout is no longer appropriate.</li>
+</ul>
+<p>
+This course lasts about 4 1/2 hours and will be offered three times in 2008, April 12th, July 25th, and November 22nd, from 10:00 a.m. until 3:30 p.m.
+Each session will be held in the Autism Society of Colorado's training room, which is in the basement (level 1) of the First Bank building at <a href="http://maps.google.com/maps?f=q&hl=en&geocode=&q=550+S.+Wadsworth+Blvd,+Lakewood&sll=37.0625,-95.677068&sspn=44.25371,57.919922&ie=UTF8&ll=39.706427,-105.081482&spn=0.010549,0.014141&z=16&iwloc=addr">550 S. Wadsworth Blvd, Lakewood</a>.
+</p>
+<p>
+The cost for the course is $75 per person, and the course is limited to 30 participants. To learn more about this course, you may call 970-554-1886 or e-mail <a href="mailto:sam@towersbehavior.com">sam@towersbehavior.com</a>.
+</p>
+<p>
+Some scholarships are available through the Autism Society of Colorado. To apply for a scholarship, call the Autism Society of Colorado at (720) 214-0794 and ask for Bridget. You may also e-mail Bridget at <a href="mailto:bridget@autismcolorado.org">bridget@autismcolorado.org</a>. Scholarships are limited, so please apply early.
+</p>
+
+<br />
+<p>
+Choose one of the following:
+<!-- July Offering -->
+<form target="paypal" action="https://www.paypal.com/cgi-bin/webscr" method="post">
+  Enroll in July 25th class ($75)
+  <input
+    src="https://www.paypal.com/en_US/i/btn/x-click-but22.gif"
+    name="submit" alt="Make payments with PayPal - it's fast, free and secure!"
+    border="0" type="image">
+  <img alt="" src="https://www.paypal.com/en_US/i/scr/pixel.gif" border="0" height="1" width="1">
+  <input name="add" value="1" type="hidden">
+  <input name="cmd" value="_cart" type="hidden">
+  <input name="business" value="sam@towersbehavior.com" type="hidden">
+  <input name="item_name" value="Why Won't You Listen - July" type="hidden">
+  <input name="amount" value="75.00" type="hidden">
+  <input name="no_shipping" value="2" type="hidden">
+  <input name="no_note" value="1" type="hidden">
+  <input name="currency_code" value="USD" type="hidden">
+  <input name="lc" value="US" type="hidden">
+  <input name="bn" value="PP-ShopCartBF" type="hidden">
+</form>
+<!-- November Offering -->
+<form target="paypal" action="https://www.paypal.com/cgi-bin/webscr" method="post">
+  Enroll in November 22nd class ($75)
+  <input
+    src="https://www.paypal.com/en_US/i/btn/x-click-but22.gif"
+    name="submit" alt="Make payments with PayPal - it's fast, free and secure!"
+    border="0" type="image">
+  <img alt="" src="https://www.paypal.com/en_US/i/scr/pixel.gif" border="0" height="1" width="1">
+  <input name="add" value="1" type="hidden">
+  <input name="cmd" value="_cart" type="hidden">
+  <input name="business" value="sam@towersbehavior.com" type="hidden">
+  <input name="item_name" value="Why Won't You Listen - November" type="hidden">
+  <input name="amount" value="75.00" type="hidden">
+  <input name="no_shipping" value="2" type="hidden">
+  <input name="no_note" value="1" type="hidden">
+  <input name="currency_code" value="USD" type="hidden">
+  <input name="lc" value="US" type="hidden">
+  <input name="bn" value="PP-ShopCartBF" type="hidden">
+</form>
+</p>
+
+<div class="right"><a href="#menu">Back</a> to menu</div>
+<!-- End: Why Won't You Mind? -->
+
+<!-- Start: In-Home Interventions -->
+<hr>
+<h2 id="inhomeinterventions">In-Home Interventions for Children with Autism</h2>
+<h3>Presented by The Autism Society of Colorado and Towers Behavior Services LLC</h3>
+
+<br>
+<p>
+This course is designed for parents and others who wish to provide in-home educational and behavioral interventions to children with autism.
+</p><p>
+Research has demonstrated that intensive intervention for children with autism yields very strong positive results throughout the child's entire lifetime.  Parents and in-home service providers can be an essential part of making a dramatic, lifelong difference in the lives of children with autism.  This course will provide the participants with the training necessary to provide these interventions under the guidance of a professional well skilled in Applied Behavior Analysis (ABA) interventions for children with autism.
+</p>
+<p>
+This course will provide training in four areas:
+<ul>
+ <li>The core characteristics of autism and related characteristics of autism.</li>
+ <li>Understanding why behavior occurs and what it is communicating.</li>
+ <li>Implementing behavior change programs.</li>
+ <li>Effective instruction techniques for teaching new skills to children with autism.</li>
+</ul>
+</p>
+<p>
+This course is an intensive course, lasting for a total of five sessions of six hours each.  This course will be offered once during 2008, on October 4th, October 11th, November 1st, November 8th, and November 15th.  Please note that you need to attend all five sessions in order to complete the course.
+</p>
+<p>
+This course will be held in the Autism Society of Colorado's training room, which is in the basement (level 1) of the First Bank building at <a href="http://maps.google.com/maps?f=q&hl=en&geocode=&q=550+S.+Wadsworth+Blvd,+Lakewood&sll=37.0625,-95.677068&sspn=44.25371,57.919922&ie=UTF8&ll=39.706427,-105.081482&spn=0.010549,0.014141&z=16&iwloc=addr">550 S. Wadsworth Blvd, Lakewood</a>.
+</p>
+<p>
+The cost for the course is $350 per person, and the course is limited to 30 participants. Advance registration is required by October 1st. To learn more about this course, you may call 970-554-1886 or e-mail <a href="mailto:sam@towersbehavior.com">sam@towersbehavior.com</a>.
+</p>
+<p>
+Some scholarships are available through the Autism Society of Colorado. To apply for a scholarship, call the Autism Society of Colorado at (720) 214-0794 and ask for Bridget.  You may also e-mail Bridget at <a href="mailto:bridget@autismcolorado.org">bridget@autismcolorado.org</a>. Scholarships are limited, so please apply early.
+</p>
+<br />
+<p>
+<!-- October-November Offering -->
+<form target="paypal" action="https://www.paypal.com/cgi-bin/webscr" method="post">
+  Enroll in October-November course (five classes) ($350)
+  <input
+    src="https://www.paypal.com/en_US/i/btn/x-click-but22.gif"
+    name="submit" alt="Make payments with PayPal - it's fast, free and secure!"
+    border="0" type="image">
+  <img alt="" src="https://www.paypal.com/en_US/i/scr/pixel.gif" border="0" height="1" width="1">
+  <input name="add" value="1" type="hidden">
+  <input name="cmd" value="_cart" type="hidden">
+  <input name="business" value="sam@towersbehavior.com" type="hidden">
+  <input name="item_name" value="In-Home Interventions - October-November" type="hidden">
+  <input name="amount" value="350.00" type="hidden">
+  <input name="no_shipping" value="2" type="hidden">
+  <input name="no_note" value="1" type="hidden">
+  <input name="currency_code" value="USD" type="hidden">
+  <input name="lc" value="US" type="hidden">
+  <input name="bn" value="PP-ShopCartBF" type="hidden">
+</form>
+</p>
+
+<div class="right"><a href="#menu">Back</a>
+to menu</div>
+<!-- End: In-Home Interventions -->
+
+
+<!-- Start: Challenging Behaviors -->
+<hr>
+<h2 id="challengingbehaviors">
+Challenging Behaviors: Teaching Appropriate Alternatives<br />
+or<br />
+"What Could You Have Done Instead?"
+</h2>
+
+<h3>Presented by The Autism Society of Colorado and Towers Behavior Services LLC</h3>
+
+<br>
+<p>
+This course is designed for parents and others who wish to decrease problem behavior in children who have any type of disability.
+</p><p>
+Often, when as individual with a disability uses problem behavior, the goal that the person is trying to accomplish is appropriate, but the way in which the person is trying to accomplish it is not.  In these types of situations, a very effective approach to decreasing the problem behavior is to teach the person a skill to accomplish the goal appropriately, thus eliminating the need for problem behavior.  The behavior or skill that is taught to the individual is called a replacement behavior.  Teaching a replacement behavior is what parents are trying to do when they ask a child, "What could you have done instead?"
+</p>
+<p>
+The participants in this course will learn the skills necessary for teaching replacement behaviors and other interventions for decreasing problem behavior.  Among the skills to be taught in this course will be:
+<ul>
+ <li>How and when to teach replacement behaviors.</li>
+ <li>How to understand what your child is attempting to accomplish through problem behavior, or, in other words, how to understand what your child is communicating through problem behavior.</li>
+ <li>How to respond to this communication so that you don't encourage further problem behavior.</li>
+ <li>How problem behavior is triggered.</li>
+ <li>How to reduce the number of triggers for problem behavior.</li>
+ <li>How your actions, including well-meaning actions, can encourage problem behavior.</li>
+ <li>How to change your actions so that you don't encourage problem behavior.</li>
+ <li>How situations in the environment can set up your child for problem behavior.</li>
+ <li>How to change these situations so that your child is less likely to use problem behavior.</li>
+</ul>
+</p>
+<p>
+This course is a "hands-on" course meaning that the participants will be given the opportunity to practice the skills they learn in this course.  These skills will include the following:
+<ul>
+ <li>Targeting a behavior of concern in a specific individual.</li>
+ <li>Collecting direct observational data on that behavior.</li>
+ <li>Analyzing the data to help determine the function of the behavior.</li>
+ <li>Designing and implementing an intervention for the individual's targeted behavior.</li>
+</ul>
+</p>
+<p>
+This course is an intensive course, lasting for a total of five sessions of six-hour each.  This course will be offered once during 2008, on May 3rd, May 10th, May 31st, June 7th, and June 14th.  Please note that you need to attend all five sessions in order to complete the course.
+</p>
+<p>
+This course will be held in the Autism Society of Colorado's training room, which is in the basement (level 1) of the First Bank building at <a href="http://maps.google.com/maps?f=q&hl=en&geocode=&q=550+S.+Wadsworth+Blvd,+Lakewood&sll=37.0625,-95.677068&sspn=44.25371,57.919922&ie=UTF8&ll=39.706427,-105.081482&spn=0.010549,0.014141&z=16&iwloc=addr">550 S. Wadsworth Blvd, Lakewood</a>.
+</p>
+<p>
+The cost for the course is $350 per person, and the course is limited to 30 participants. Advance registration is required by April 30th.  To learn more about this course, you may call 970-554-1886 or e-mail <a href="mailto:sam@towersbehavior.com">sam@towersbehavior.com</a>.
+</p>
+<p>
+Some scholarships are available through the Autism Society of Colorado. To apply for a scholarship, call the Autism Society of Colorado at (720) 214-0794 and ask for Bridget.  You may also e-mail Bridget at <a href="mailto:bridget@autismcolorado.org">bridget@autismcolorado.org</a>. Scholarships are limited, so please apply early.
+</p>
+<br />
+<p>
+<!-- May-June Offering -->
+<form target="paypal" action="https://www.paypal.com/cgi-bin/webscr" method="post">
+  Enroll in May-June course (five classes) ($350)
+  <input
+    src="https://www.paypal.com/en_US/i/btn/x-click-but22.gif"
+    name="submit" alt="Make payments with PayPal - it's fast, free and secure!"
+    border="0" type="image">
+  <img alt="" src="https://www.paypal.com/en_US/i/scr/pixel.gif" border="0" height="1" width="1">
+  <input name="add" value="1" type="hidden">
+  <input name="cmd" value="_cart" type="hidden">
+  <input name="business" value="sam@towersbehavior.com" type="hidden">
+  <input name="item_name" value="Challenging Behaviors - May-June" type="hidden">
+  <input name="amount" value="350.00" type="hidden">
+  <input name="no_shipping" value="2" type="hidden">
+  <input name="no_note" value="1" type="hidden">
+  <input name="currency_code" value="USD" type="hidden">
+  <input name="lc" value="US" type="hidden">
+  <input name="bn" value="PP-ShopCartBF" type="hidden">
+</form>
+</p>
+<div class="right"><a href="#menu">Back</a>
+to menu</div>
+<!-- End: Challenging Behaviors -->
+
+
+<!-- Start: Understand and Shape -->
+<hr>
+<h2 id="understandandshape">Understanding And Shaping The Behavior Of Your Child With A Disability</h2>
+
+<h3>Presented by The Autism Society of Colorado and Towers Behavior Services LLC</h3>
+
+<br>
+<p>
+This class is designed for parents and others who wish to decrease problem behavior in children with any type of disability.
+</p><p>
+The participants in this class will learn to understand what motivates individuals to use problem behavior and what can be done to decrease the likelihood that problem behavior will be used.
+</p>
+<p>
+The following will be taught in this class:
+<ul>
+ <li>How your actions, including well-meaning actions, can encourage problem behavior.</li>
+ <li>How to change your actions so that you don’t encourage problem behavior.</li>
+ <li>How situations in the environment can set up your child for problem behavior.</li>
+ <li>How to change these situations so that your child is less likely to use problem behavior.</li> <li>How problem behavior is triggered.</li> <li>How to reduce the number of triggers for problem behavior.</li> <li>How to understand what your child is communicating through problem behavior.</li> <li>How to respond to this communication so that you don’t encourage further problem behavior.</li> <li>How to take direct observational data and analyze it. This will include practice during class using video clips of problem behavior.</li></ul>
+</p>
+<p>
+This course consists of two sessions of about 3 1/2 hours, each presented on separate days. This course will be offered twice in 2008. It will be offered first on April 11th and April 18th. It will next be offered on July 26th, and August 2nd. Each session will last from 9:30 a.m. until 1:00 p.m. Please note that you must attend both days that the class is offered, either April 11th and 18th or July 26th and August 2nd, in order to complete the class.
+</p>
+<p>
+All sessions will be held in the Autism Society of Colorado's training room, which is in the basement (level 1) of the First Bank building at <a href="http://maps.google.com/maps?f=q&hl=en&geocode=&q=550+S.+Wadsworth+Blvd,+Lakewood&sll=37.0625,-95.677068&sspn=44.25371,57.919922&ie=UTF8&ll=39.706427,-105.081482&spn=0.010549,0.014141&z=16&iwloc=addr">550 S. Wadsworth Blvd, Lakewood</a>.
+</p>
+<p>
+The cost for the class is $95 per person, and the class is limited to 30 participants. To learn more about this class, you may call 970-554-1886 or e-mail <a href="mailto:sam@towersbehavior.com">sam@towersbehavior.com</a>.
+</p>
+<p>
+Some scholarships are available through the Autism Society of Colorado. To apply for a scholarship, call the Autism Society of Colorado at (720) 214-0794 and ask for Bridget. You may also e-mail Bridget at <a href="mailto:bridget@autismcolorado.org">bridget@autismcolorado.org</a>. Scholarships are limited, so please apply early.
+</p>
+<br />
+<p>
+Choose one of the following:
+<!-- July-August Offering -->
+<form target="paypal" action="https://www.paypal.com/cgi-bin/webscr" method="post">
+  Enroll in July-August course (two classes) ($95)
+  <input
+    src="https://www.paypal.com/en_US/i/btn/x-click-but22.gif"
+    name="submit" alt="Make payments with PayPal - it's fast, free and secure!"
+    border="0" type="image">
+  <img alt="" src="https://www.paypal.com/en_US/i/scr/pixel.gif" border="0" height="1" width="1">
+  <input name="add" value="1" type="hidden">
+  <input name="cmd" value="_cart" type="hidden">
+  <input name="business" value="sam@towersbehavior.com" type="hidden">
+  <input name="item_name" value="Understand and Shape - July-August" type="hidden">
+  <input name="amount" value="95.00" type="hidden">
+  <input name="no_shipping" value="2" type="hidden">
+  <input name="no_note" value="1" type="hidden">
+  <input name="currency_code" value="USD" type="hidden">
+  <input name="lc" value="US" type="hidden">
+  <input name="bn" value="PP-ShopCartBF" type="hidden">
+</form>
+</p>
+
+<div class="right"><a href="#menu">Back</a>
+to menu</div>
+<!-- End: Understand and shape -->
+
+
+</div>
+
+</div>
+
+<!--End content section--><!--The sidemenu section contains the quick blurb text and navigation menu.-->
+<div class="sidemenu">
+<div class="blurb">
+<div class="bigtext"> <em>Using Applied Behavior
+Analysis to help those who help others.</em> </div>
+
+</div>
+
+<!--End of blurb section--><!--The menu contains links to other pages or sites in an uniform and orginized manner.--><!--#include virtual="menu.html"--><!--End of menu section-->
+<form target="paypal" action="https://www.paypal.com/cgi-bin/webscr" method="post"><input name="cmd" value="_cart" type="hidden"><input name="business" value="sam@towersbehavior.com" type="hidden"> <input src="https://www.paypal.com/en_US/i/btn/view_cart.gif" name="submit" alt="Make payments with PayPal - it's fast, free and secure!" border="0" type="image"> <input name="display" value="1" type="hidden"></form>
+
+<span style="display: block; text-align: center; color: rgb(89, 128, 105); font-size: 0.75em;">Copyright
+(c) 2008.</span> </div>
+
+<!--End of sidemenu section--><!--The clear section exists only to fill out the right side with a uniform color. Nothing should be placed inside it.-->
+<div class="clear"> &nbsp; </div>
+
+<!--End of clear section--> </div>
+
+</div>
+
+<!--End of The_page sections. It would be best if no more text is put after here.-->
+</body>
+</html>

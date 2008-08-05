@@ -1,0 +1,106 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
+<html lang="en-us"><head><!--The head contains information like, where to read the stylesheet files from
+  (the files that say how the page should look), metadata (describes the contents
+  of the page to search engines like Google and Yahoo), and the title of the page.-->
+    <link href="pageflow.css" rel="stylesheet" type="text/css">
+    <link href="menu.css" rel="stylesheet" type="text/css">
+    <link rel="shortcut icon" href="/favicon.ico" type="image/x-icon" />
+    <title>TowersBehavior.com - Using Applied Behavior Analysis to help those who help others.</title><!--The body is what is shown to the users. All content should be placed in the body.--></head>
+<body style="direction: ltr;">
+
+  <!--The_page parts 1 and 2 are the shell for all the contents of the site. The content is placed in nested sections within.-->
+  <div class="the_page_part1"><!--Part 1 and two must go together-->
+  <div class="the_page_part2">
+  
+    <!--The pagetitle section consists of the image-->
+    <div class="pagetitle">
+    <img class="pagetitle" src="images/titlesmall.jpg" alt="TowersBehavior.com - Using Applied Behavior Analysis to help those who help others." height="100" width="775">
+    </div>
+
+    <!--Do not write anything in the content section, but instead put a two_column_content or main_content section inside.-->
+    <div class="content">
+
+      <!--The main_content section is where the text appears at full width-->
+      <div class="main_content">
+        <h1>Qualifications</h1>
+        <h3>Brief summary of my education and experience.</h3>
+
+        
+        <h4>Education</h4>
+        
+        <p>
+        Master of Arts in Special Education from the University of Northern Colorado.</p><p>
+        Three years of post-Master's training at the University of Kentucky in special education&nbsp; focusing on applied behavior analysis and language interventions for individuals with
+          disabilities.</p><h4>Professional Experience</h4>
+        <p>
+        I have spent sixteen years providing support to individuals with
+        problem behavior. My professional experience includes:
+        </p>
+        <ul>
+          <li>Serving as an in-house behavior consultant for an organization
+          that serves adults with developmental disabilities.</li>
+          <li>Serving as a behavior consultant to schools, departments of
+          social services, early childhood programs, nonprofits, and other
+          organizations.</li>
+          <li>Training professionals (e.g., social welfare professionals) how
+          to teach parents effective discipline techniques.</li>
+          <li>Serving as a behavior consultant to parents.</li>
+          <li>Training parents in effective discipline techniques.</li>
+          <li>Serving as a regular education and special education teacher to
+          students with and without disabilities. Students that I have taught
+          include students with:
+          <ul>
+            <li>behavior disorders;</li>
+            <li>developmental disabilities, including autism;</li>
+            <li>multiple disabilities;</li>
+            <li>AD/HD; and</li>
+            <li>learning disabilities.</li>
+          </ul>
+          </li>
+          <li>Providing staff development to schools, departments of social
+          services, and other organizations.</li>
+          <li>Training pre-service special education teachers who were preparing
+          to teach students with disabilities.</li>
+          <li>Designing and implementing a school-based educational program for
+          high school students with behavior disorders.</li>
+          <li>Participating in the development and design of a residential
+          program for sex offenders; and providing ongoing consultation for the
+          program.</li>
+        </ul>
+
+        <h4>Personal Experience</h4>
+        <p>
+          My wife and I are the adoptive parents of four sons, all of whom have identified disabilities.</p></div>
+      <!--End main_content section-->
+    </div>
+    <!--End content section-->
+
+    <!--The sidemenu section contains the quick blurb text and navigation menu.-->
+    <div class="sidemenu">
+    
+      <div class="blurb">
+        <div class="bigtext">
+          <em>Using Applied Behavior Analysis to help those who help others.</em>
+        </div>
+      </div>
+      <!--End of blurb section-->
+
+      <!--The menu contains links to other pages or sites in an uniform and orginized manner.-->
+      <!--#include virtual="menu.html"-->
+      <!--End of menu section-->
+      
+      <span style="display: block; text-align: center; color: rgb(89, 128, 105); font-size: 0.75em;">Copyright (c) 2006.</span>
+    </div>
+    <!--End of sidemenu section-->
+    
+    <!--The clear section exists only to fill out the right side with a uniform color. Nothing should be placed inside it.-->
+    <div class="clear">
+      &nbsp;
+    </div>
+    <!--End of clear section-->
+
+  </div>
+  </div>
+  <!--End of The_page sections. It would be best if no more text is put after here.-->
+
+  </body></html>

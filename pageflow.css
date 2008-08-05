@@ -1,0 +1,286 @@
+body
+{
+background-color: #c3e5e0;
+font-family: century, 'book antiqua', palatino, serif;
+font-size: 0.78em;
+/*font-size: smaller;*/
+/*font-size: 10pt;*/ /* Use this to be specific about the font size.*/
+list-style-type: circle;
+color: black;
+margin: 0px 0px 0px 0px;
+padding: 10px 10px 10px 10px;
+text-align: justify;
+}
+
+/* the_page encompasses everything within the page. No contents should be outside of it.*/
+div.the_page_part1
+{
+margin-left: auto;
+margin-right: auto;
+width: 775px;
+}
+
+div.the_page_part2
+{
+margin-left: auto;
+margin-right: auto;
+color: inherit;
+background-color: #f2fffd;
+float: left;
+min-height: 500px;
+border: 3px solid #000000;
+background-image: url(images/side.png);
+background-position: right;
+background-repeat: repeat-y;
+width: 100%;
+}
+
+div.pagetitle
+{
+margin: 0;
+padding: 0;
+max-height: 200px;
+border-width: 0;
+}
+/* The page title is the image at the top of every webpage. */
+img.pagetitle
+{
+margin:  0;
+padding: 0;
+border-width: 0;
+max-height: 200px;
+}
+
+div.left2column
+{
+margin:  0 -3px 0 0;
+padding: 15px 15px 15px 0;
+float: left;
+width: 255px;
+border-width: 0 3px 0 0;
+border-style: solid;
+border-color: #000000;
+}
+
+div.right2column
+{
+float: left;
+margin:  0;
+padding: 15px 0 15px 15px;
+width: 257px;
+border-width: 0 0 0 3px;
+border-style: solid;
+border-color: #000000;
+}
+
+div.two_column_content
+{
+width: 545px;
+float: left;
+margin: 30px 15px 15px 15px;
+padding: 0;
+border-width: 0 0 3px 0;
+border-style: solid;
+border-color: #000000;
+display: inline; /* This is a fix for the "double-margin" problem in IE. */
+}
+
+div.main_content
+{
+width: 545px;
+float: left;
+padding: 15px;
+margin: 0;
+}
+
+div.content
+{
+width: 575px;
+padding: 0;
+margin: 0;
+float: left;
+}
+
+h1
+{
+font-family: 'lucida calligraphy', 'trebuchet ms', script, cursive;
+font-size: 2.4em;
+color: #4c998c;
+background-color: inherit;
+line-height: inherit;
+margin:  0;
+padding: 0.1em 0 0.1em 0;
+text-align: center;
+}
+
+h2
+{
+font-family: 'lucida calligraphy', 'trebuchet ms', script, cursive;
+font-size: 1.9em;
+color: #4c998c;
+background-color: inherit;
+margin:  0;
+padding: 0.1em 0 0.1em 0;
+text-align: center;
+}
+
+h3
+{
+font-family: arial, verdana, sans-serif;
+font-size: 1.1em;
+color: #394d49;
+background-color: inherit;
+margin:  0;
+padding: 0.1em 0 0.1em 0;
+text-align: center;
+}
+
+h3.location
+{
+font-family: arial, verdana, sans-serif;
+font-size: 1.5em;
+color: #394d49;
+background-color: inherit;
+margin:  0;
+padding: 0.1em 0 0.1em 0;
+text-align: center;
+}
+
+h4
+{
+font-size: 1em;
+font-style: italic;
+padding: 0.3em 0 0 0;
+margin:  0;
+text-align: left;
+}
+
+h5
+{
+font-size: .9em;
+font-style: normal;
+padding: 0;
+margin:  0;
+text-align: left;
+}
+
+h6
+{
+font-size: .8em;
+font-style: normal;
+padding: 0;
+margin:  0;
+text-align: left;
+}
+
+p
+{
+/*
+text-indent: 2em;
+*/
+padding: 0.2em 0 0.2em 0;
+margin: 0;
+}
+
+ol,ul
+{
+margin-top: 0.25em;
+margin-bottom: 1.0em;
+}
+
+hr
+{
+color: #000000;
+background-color: #000000;
+height: 3px;
+margin: 1.5em auto 1.5em auto;
+padding: 0 auto 0 auto;
+}
+
+ol.alpha
+{
+list-style-type: lower-alpha;
+}
+
+div.sidemenu
+{
+font-family: arial, verdana, sans-serif;
+margin: 0;
+background-color: #00332b;
+padding: 15px 5px 15px 5px;
+width: 180px;
+float: right;
+color: #a1e5bd;
+}
+
+div.blurb
+{
+border-top: 2px solid #95cbe5;
+border-right: 0;
+border-bottom: 2px solid #95cbe5;
+border-left: 0;
+padding: 5px;
+text-align: center;
+font-size: 105%;
+font-weight: bold;
+line-height: 135%;
+}
+
+.right
+{
+text-align: right;
+}
+
+.bigtext
+{
+font-size: 120%;
+line-height: 135%;
+}
+
+.underline
+{
+text-decoration: underline;
+}
+
+/* Used for indicating the town or city the course takes place. */
+.location
+{
+font-weight: bold;
+color: #000055;
+}
+
+/* Fills out the side menu with the propercolor.
+   For a complete explanation, visit http://builder.com.com/5100-6371-5268973-1.html
+   by author Michael Meadhra.*/
+.clear {
+    clear: both;
+    display: block;
+    height: 1px;
+    overflow: hidden;
+    margin: 0;
+    padding: 0;
+}
+
+a
+{
+color: #102080;
+text-decoration: underline;
+}
+
+a:visited
+{
+color: #541c8c;
+text-decoration: underline;
+}
+
+a:active
+{
+color: #800d20;
+text-decoration: underline;
+}
+
+a:hover
+{
+color: #1933cb;
+text-decoration: underline;
+}

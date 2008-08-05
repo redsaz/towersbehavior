@@ -1,0 +1,82 @@
+div.menu
+{
+margin: 1em 0 1em 0;
+}
+
+.menu ul
+{
+text-align: left;
+font-family: arial, verdana, sans-serif;
+font-size: 1em;
+font-weight: bold;
+width: 100%; 
+list-style-type: none;
+margin: 0.5em 0 0.5em 0;
+padding: 0;
+color: #85bbd5;
+background-color: #00332b;
+}
+
+.menu li
+{
+border-bottom: 1px solid #00332b;
+list-style: none;
+margin: 0;
+}
+
+.menu a
+{
+border-top: 2px solid #2348b2;
+border-right: 2px solid #070f26;
+border-bottom: 2px solid #070f26;
+border-left: 2px solid #2348b2;
+padding: .125em .125em .125em 1em;
+display: block;
+text-decoration: none;
+color: #95cbe5;
+background-color: #0f1f4d;
+}
+
+.menu a:visited
+{
+color: #95cbe5;
+background-color: #0f1f4d;
+}
+
+.menu a:hover
+{
+border-top: 2px solid #3062f3;
+border-right: 2px solid #193480;
+border-bottom: 2px solid #193480;
+border-left: 2px solid #3062f3;
+color: #a6e2ff;
+background-color: #2348b2;
+text-decoration: underline;
+}
+
+.menu a:active
+{
+border-top: 2px solid #142966;
+border-right: 2px solid #2852cb;
+border-bottom: 2px solid #2852cb;
+border-left: 2px solid #142966;
+color: #eeeeff;
+background-color: #1e3e99;
+}
+
+.menu_header
+{
+color: #466fe6;
+background-color: inherit;
+text-align: center;
+font-family: arial, verdana, sans-serif;
+font-style: normal;
+font-weight: normal;
+display: block;
+}
+
+/*
+ * I'd like to thank Raphael GOETTER at
+ * CSS from tutorials of www.alsacreations.com/articles
+ * because I looked through some code to solve a few problems.
+ */
