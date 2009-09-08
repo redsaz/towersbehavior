@@ -1,0 +1,43 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
+<html lang="en-us">
+<head>
+  <link href="pageflow.css" rel="stylesheet" type="text/css">
+  <link href="menu.css" rel="stylesheet" type="text/css">
+  <link rel="shortcut icon" href="/favicon.ico" type="image/x-icon" />
+  <title>TowersBehavior.com - Using Applied Behavior Analysis to help those who help others.</title>
+</head>
+
+<body style="direction: ltr;">
+
+<div class="the_page_part1"><div class="the_page_part2">
+ <div class="pagetitle"><img class="pagetitle" src="images/titlesmall.jpg" alt="TowersBehavior.com - Using Applied Behavior Analysis to help those who help others." height="100" width="775"></div>
+ <div class="content">
+  <div class="main_content">
+   <h1>Public Courses</h1>
+   <h3>Classes offered to the general public.</h3>
+   <div class="menu" id="menu">
+    <span class="menu_header">Currently available classes</span>
+    <ul>
+    </ul>
+   </div>
+
+&nbsp;
+
+<hr>
+
+No classes are offered to the public at this time.
+
+  </div><!-- end main_content --> </div><!-- end content -->
+ <div class="sidemenu">
+  <div class="blurb">
+   <div class="bigtext">
+    <em>Using Applied Behavior Analysis to help those who help others.</em>
+   </div>
+  </div> <!--End blurb-->
+  <!--#include virtual="menu.html"-->
+  <form target="paypal" action="https://www.paypal.com/cgi-bin/webscr" method="post"><input name="cmd" value="_cart" type="hidden"><input name="business" value="sam@towersbehavior.com" type="hidden"> <input src="https://www.paypal.com/en_US/i/btn/view_cart.gif" name="submit" alt="Make payments with PayPal - it's fast, free and secure!" border="0" type="image"> <input name="display" value="1" type="hidden"></form>
+  <span style="display: block; text-align: center; color: rgb(89, 128, 105); font-size: 0.75em;">Copyright (c) 2009.</span>
+ </div> <div class="clear"> &nbsp; </div>
+</div></div>
+</body>
+</html>
